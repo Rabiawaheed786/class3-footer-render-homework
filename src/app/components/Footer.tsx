@@ -1,4 +1,4 @@
-import Link from "next/link"
+
 export default function Footer(){
     return(
         <div style={{marginTop:"400px", display:"flex", background:"pink", justifyContent:"centre"}}>
